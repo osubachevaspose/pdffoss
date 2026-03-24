@@ -1,3 +1,3 @@
-module github.com/solsw/pdfhelper
+module github.com/osubachevaspose/pdffoss
 
 go 1.26
