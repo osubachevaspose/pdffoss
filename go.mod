@@ -1,3 +1,3 @@
-module github.com/example/pdfhelper
+module github.com/solsw/pdfhelper
 
-go 1.22
+go 1.26
